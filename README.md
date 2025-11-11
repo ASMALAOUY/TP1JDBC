@@ -1,3 +1,9 @@
+
+Activité 1 : Suivi des Scripts des Développeurs
+
+![image alt](https://github.com/ASMALAOUY/TP1JDBC/blob/main/JavaApplication2/ex1.jpg?raw=true)
+
+
 Activité 2 : Gestion des Machines et Employés (JDBC en Couches)
 
 
